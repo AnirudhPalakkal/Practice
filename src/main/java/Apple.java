@@ -1,5 +1,5 @@
 public class Apple {
     public void display() {
-        System.out.println("world");
+        System.out.println("loser2");
     }
 }
